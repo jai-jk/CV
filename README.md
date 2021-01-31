@@ -1,4 +1,4 @@
-## Your Name
+## Jai Jalah Kumar
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -11,19 +11,19 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**FreshGeo Ltd** (Oct 2020 to Dec 2020)  
+_Customer Success & Support Manager_
 
-- Any experience relevent to software development
+- Any experience relavent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Pedagogy Auras UK Ltd** (Apr 2016 to Sep 2020)  
+_Customer Service/Experience Associate_
 
-- Any experience relevent to software development
+- Any experience relavent to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Consider skills relavent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
 
