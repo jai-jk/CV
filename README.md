@@ -1,8 +1,8 @@
 ## Jai Jalah Kumar
 
-I am a hungry entrepreneur looking to work with people who create about making products that deliver genuine value to others. I I have delivered consistently high customer satisfaction and business excellence in my career through the use of customer service strategy and internal cultural change projects.
+I am a hungry, young entrepreneur who is looking to work with people who care about creating products that deliver genuine value to others. I have delivered consistently high customer satisfaction and business excellence through the use of effective customer service strategy, and internal cultural change projects.
 
-I'm inspired by the ability to build and deliver powerful services, products and systems for our rapidly evolving civilisation, and the opportunity to be a leader in the most inclusive quality-of-life shift that humanity has ever been a part of.
+I'm inspired by the ability to build and deliver powerful services, products and systems for our rapidly evolving civilisation, and the opportunity to be a leader in the most rapid and inclusive quality-of-life shift that humanity has ever experienced.
 
 ## Projects
 
