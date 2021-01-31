@@ -1,6 +1,6 @@
 ## Jai Jalah Kumar
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a hungry entrepreneur looking to work with people who create about making products that deliver genuine value to others. I I have delivered consistently high customer satisfaction and business excellence in my career, through strategy and cultural change projects. I'm inspired by the ability to build and deliver powerful services, products and systems for our rapidly evolving civilisation, and the opportunity to be a leader in the most inclusive quality-of-life shift that humanity has ever been a part of.
 
 ## Projects
 
@@ -16,16 +16,16 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 **FreshGeo Ltd** (Oct 2020 to Dec 2020)  
 _Customer Success & Support Manager_
 
-- Any experience relavent to software development
+- Any experience relevant to software development
 
 **Pedagogy Auras UK Ltd** (Apr 2016 to Sep 2020)  
 _Customer Service/Experience Associate_
 
-- Any experience relavent to software development
+- Any experience relevant to software development
 
 ## Skills
 
-Consider skills relavent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
 
@@ -49,8 +49,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
+- HTML, CSS
+- Python, SQL, MongoDB
 - RSpec, Jasmine
-- Python, SQL, HTML, CSS
 
 #### GCSEs and A Levels (Sep 2014 to June 2017)
 
@@ -75,7 +76,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 I've spent the last four years working in, and studying, effective Customer Service and Business practices. As part of my independent study, I've gained Foundation level qualifications in Prince2 Project Management, AgilePM, Business Analysis, and Change Management.
 
-I excel at generating and/or expanding on ideas and scope for projects; creating effective project plans by utilising the appropriate frameworks, and then leading teams and delegating tasks throughout the project lifecycle - regularly reviewing the project and adapting and/or pivoting when necessary in order to deliver a relevant and robust project.
+I excel at generating and/or expanding on ideas and scope for projects; creating effective project plans by utilising the appropriate frameworks, and then leading teams and delegating tasks throughout the project lifecycle; and regularly reviewing the project and adapting and/or pivoting when necessary, in order to deliver a relevant and robust project.
 
 I've also studied Data Analysis and learned Excel and SQL to an advanced level, as well as Tableau to a novice level. I'm particularly interested in using Data to more effectively understand and serve customer needs and desires.
 
