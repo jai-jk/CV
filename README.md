@@ -84,7 +84,7 @@ I've also studied Data Analysis and learned Excel and SQL to an advanced level, 
 
 ## Passion and Hobbies
 
-I spend my time playing sports and enjoying the presence of my friends and family; meditating and doing Yoga; programming and building; making and sharing music; and reading/watching, and implementing, videos - on life, (pragmatic) spirituality, relationships/emotional intelligence, sports and physiology, emerging trends, and leadership and communication.
+I spend my time playing sports and enjoying the presence of my friends and family; meditating and doing Yoga; programming and building; making and sharing music; and reading/watching videos about life, (pragmatic) spirituality, relationships/emotional intelligence, sports and physiology, emerging trends, and leadership and communication; and most importantly - implementing them.
 
 As you can probably tell, I'm passionate about learning, improving, and delivering. My motto is: "effective beliefs are more important than beliefs that are true". This absolutely does not mean that I think we should be untruthful, but just that the best way for me to genuinely understand life is by testing and experiencing myself, and sculpting my life - not by blindly believing ideas that don't hold up to reality testing. Still, I strongly believe that my way is not the only way to live, it's just one way. I respect others boundaries and choices and choose not to impose, but challenge my own self relentlessly (and healthily).
 
